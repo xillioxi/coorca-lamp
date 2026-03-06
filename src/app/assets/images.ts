@@ -1,0 +1,20 @@
+// Centralized image imports from local assets
+export { default as imgLogo } from "../../assets/Group 1.svg";
+export { default as imgCamera } from "../../assets/7d87b82acd61b1f8ba3a490fcfa993cce6c4742d.png";
+export { default as imgOrcaLamp } from "../../assets/fc83fb1cdc8a9b4962cad9a931e61ce617f16f34.png";
+export { default as imgMobileApp } from "../../assets/phone.png";
+export { default as imgServos } from "../../assets/servo.png";
+export { default as imgSoftware } from "../../assets/comp.png";
+export { default as imgHifi } from "../../assets/hifi.png";
+export { default as imgAppFeatures } from "../../assets/40f6e124616d2bbbcf57da677d27f6db4ab4a003.png";
+export { default as imgEmotionalBonding } from "../../assets/889bf24d1e7884d44615320caa4702dfc2aff24f.png";
+export { default as imgTimeAllocation } from "../../assets/7731063917e82f06a501800eb281c9e576e94b9d.png";
+export { default as imgPostureAnalysis } from "../../assets/e7d0ce34a9a01ed7289de9dc0ecd1990bbe17484.png";
+export { default as imgHomework } from "../../assets/790f693ffc519b0b5c28c123885205bb212a2e40.png";
+export { default as imgHelpingHand } from "../../assets/0b257468a68476fbff98c51306ad8f906ac29e8b.png";
+export { default as imgVibeToMusic } from "../../assets/b2371015c4aeb8004bc1527ef0e6fcb79abaf51c.png";
+export { default as imgBookReading } from "../../assets/3d01b411bc3c90bb27192bbbf2c5c60b86d2c2d8.png";
+export { default as imgRolePlaying } from "../../assets/e3b45f5b20d2f5ecf075d4a1b21cf9575bcc781c.png";
+export { default as imgTechDiagram } from "../../assets/d96d28ff9d636af3970d6413f425fbe5e4818391.png";
+export { default as imgDemo1 } from "../../assets/524c0e0222998e65cbdd934fb34a7b480eaf855d.png";
+export { default as imgDemo2 } from "../../assets/cc00956e11162f838771f4692a46a22db2fbf49e.png";

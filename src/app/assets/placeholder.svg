@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Image placeholder</title>
+  <desc id="desc">Fallback visual used when source assets are unavailable.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#e6edf3"/>
+      <stop offset="100%" stop-color="#c8d6e5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <g fill="#445566" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="380" font-size="48" font-weight="700">CoOrca</text>
+    <text x="600" y="430" font-size="24">Asset Placeholder</text>
+  </g>
+</svg>
